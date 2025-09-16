@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PockemonsSSR
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Angular-pockemons-SSR
+>>>>>>> 06e8c33c22b750af1a377b57187b032e36427e2e
